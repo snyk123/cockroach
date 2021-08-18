@@ -131,7 +131,7 @@
     "us-atlas": "^1.0.2",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.10.1",
+    "webpack-dev-server": "^4.0.0",
     "webpack-visualizer-plugin": "^0.1.11",
     "world-atlas": "^1.1.4"
   },
